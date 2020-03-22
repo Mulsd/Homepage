@@ -1,7 +1,7 @@
 $(document).ready(function(){
 
-  	if(location.href.indexOf(atob("d2p5Lmlt")) == -1){
-		location.href = atob("aHR0cHM6Ly93ankuaW0=");
+  	if(location.href.indexOf(atob("bGpraC50aw==")) == -1){
+		location.href = atob("Ly9samtoLnRr");
 	}
 	var content="";
 	var author="";
